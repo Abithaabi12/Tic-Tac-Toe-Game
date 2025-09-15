@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+
 
 A two-player console-based game built in Java that allows players to take turns marking X and O on a 3x3 grid, 
 with logic to detect wins, draws, and invalid moves.
